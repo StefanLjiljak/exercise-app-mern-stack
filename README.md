@@ -1,5 +1,7 @@
 # Exercise App - MERN Stack (MongoDB, Express, React, Node.js)
 
+https://exercise-app-mern-stack.netlify.app/
+
 - svakog dana u svakom pogledu sve vise napredujem :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
